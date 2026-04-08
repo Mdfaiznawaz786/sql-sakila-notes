@@ -92,11 +92,11 @@
 
 | # | File | Topic | Status |
 |---|---|---|---|
-| 37 | subqueries/37_scalar_subquery.sql | Scalar Subquery | 🔲 Pending |
-| 38 | subqueries/38_subquery_in_where.sql | Subquery in WHERE | 🔲 Pending |
-| 39 | subqueries/39_subquery_in_from.sql | Subquery in FROM | 🔲 Pending |
-| 40 | subqueries/40_correlated_subquery.sql | Correlated Subquery | 🔲 Pending |
-| 41 | subqueries/41_exists_not_exists.sql | EXISTS / NOT EXISTS | 🔲 Pending |
+| 37 | subqueries/37_scalar_subquery.sql | Scalar Subquery | ✅ Done |
+| 38 | subqueries/38_subquery_in_where.sql | Subquery in WHERE | ✅ Done |
+| 39 | subqueries/39_subquery_in_from.sql | Subquery in FROM | ✅ Done |
+| 40 | subqueries/40_correlated_subquery.sql | Correlated Subquery | ✅ Done |
+| 41 | subqueries/41_exists_not_exists.sql | EXISTS / NOT EXISTS | ✅ Done |
 
 ---
 
@@ -104,11 +104,11 @@
 
 | # | File | Topic | Status |
 |---|---|---|---|
-| 42 | window_functions/42_row_number.sql | ROW_NUMBER() | 🔲 Pending |
-| 43 | window_functions/43_rank_dense_rank.sql | RANK() / DENSE_RANK() | 🔲 Pending |
-| 44 | window_functions/44_lead_lag.sql | LEAD() / LAG() | 🔲 Pending |
-| 45 | window_functions/45_partition_by.sql | PARTITION BY | 🔲 Pending |
-| 46 | window_functions/46_running_totals.sql | Running Totals with SUM OVER | 🔲 Pending |
+| 42 | window_functions/42_row_number.sql | ROW_NUMBER() | ✅ Done |
+| 43 | window_functions/43_rank_dense_rank.sql | RANK() / DENSE_RANK() | ✅ Done |
+| 44 | window_functions/44_lead_lag.sql | LEAD() / LAG() | ✅ Done |
+| 45 | window_functions/45_partition_by.sql | PARTITION BY | ✅ Done |
+| 46 | window_functions/46_running_totals.sql | Running Totals with SUM OVER | ✅ Done |
 
 ---
 
@@ -116,12 +116,12 @@
 
 | # | File | Topic | Status |
 |---|---|---|---|
-| 47 | advanced/47_cte.sql | Common Table Expressions (CTE) | 🔲 Pending |
-| 48 | advanced/48_views.sql | Creating and Using Views | 🔲 Pending |
-| 49 | advanced/49_indexes.sql | Indexes and Performance | 🔲 Pending |
-| 50 | advanced/50_transactions.sql | Transactions (COMMIT, ROLLBACK) | 🔲 Pending |
-| 51 | advanced/51_stored_procedures.sql | Stored Procedures | 🔲 Pending |
-| 52 | advanced/52_triggers.sql | Triggers | 🔲 Pending |
+| 47 | advanced/47_cte.sql | Common Table Expressions (CTE) | ✅ Done |
+| 48 | advanced/48_views.sql | Creating and Using Views | ✅ Done |
+| 49 | advanced/49_indexes.sql | Indexes and Performance | ✅ Done |
+| 50 | advanced/50_transactions.sql | Transactions (COMMIT, ROLLBACK) | ✅ Done |
+| 51 | advanced/51_stored_procedures.sql | Stored Procedures | ✅ Done |
+| 52 | advanced/52_triggers.sql | Triggers | ✅ Done |
 
 ---
 
